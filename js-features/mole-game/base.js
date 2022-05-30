@@ -19,4 +19,27 @@
     }, 800 );
 
   next();
+  
+  let countLose = 1;
+  const gameover = () => {
+    if (  countLose === 5 ) {
+      clearInterval(intervalId);
+      playing = false;
+      window.alert('Вы проиграли 5 раз. Игра закончена полностью');
+    } else {
+      if ( Number(document.getElementById('dead').textContent ) > 9) {
+        window.alert('Вы ВЫИГРАЛИ !!!!!!!');
+      } else {
+        window.alert(`Игра проиграна ${countLose} раз`);
+        countLose++;
+      }
+      document.getElementById('dead').textContent = '0';
+      document.getElementById('lost').textContent = '0';
+    }
+  }
+  
+  const intervalId = setInterval( gameover, 15000);
+  
 })();
+
+
