@@ -28,9 +28,9 @@
       window.alert('Вы проиграли 5 раз. Игра закончена полностью');
     } else {
       if ( Number(document.getElementById('dead').textContent ) > 9) {
-        window.alert('Вы ВЫИГРАЛИ !!!!!!!');
+        window.alert('Победа!!!');
       } else {
-        window.alert(`Игра проиграна ${countLose} раз`);
+        window.alert('Вы проиграли');
         countLose++;
       }
       document.getElementById('dead').textContent = '0';
