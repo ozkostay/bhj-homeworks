@@ -26,6 +26,8 @@
       clearInterval(intervalId);
       playing = false;
       window.alert('Вы проиграли 5 раз. Игра закончена полностью');
+      document.getElementById('dead').textContent = '0';
+      document.getElementById('lost').textContent = '0';
     } else {
       if ( Number(document.getElementById('dead').textContent ) > 9) {
         window.alert('Победа!!!');
