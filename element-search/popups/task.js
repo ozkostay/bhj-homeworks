@@ -2,8 +2,7 @@
 const firstModalWindow = document.getElementById('modal_main');
 firstModalWindow.className = 'modal modal_active';
 
-const elements  = document.getElementsByClassName('modal__close')
-const arrElements = Array.from(elements);
+const arrElements = Array.from(document.getElementsByClassName('modal__close'));
 
 arrElements.forEach( (item) => {
     item.onclick = function() {
