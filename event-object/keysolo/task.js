@@ -24,38 +24,17 @@ class Game {
       В случае правильного ввода слова вызываем this.success()
       При неправильном вводе символа - this.fail();
      */
-    const word = ['m','o','n','e','y'];
-    console.log('ss ', this);
-    //const bbb = this;
-    let n = 0;
     
     function onKey(element) {
-      console.log('element ', element);
-      
-      if (( word[n].toUpperCase() === element.key.toUpperCase()) && (n < word.length)) {
-        console.log('oK', );
-        n++;
-      } else {
-        console.log('No', word);
-        //console.log('No', element.key.toUpperCase());
-        //window.alert('Вы проиграли :-( ', n);
-        thisClass.fail();
-        return ;
-      }
-      
-      if (n === word.length) {
-        
-        //window.alert('Победа!!!');
+      if (element.key.toUpperCase() === thisClass.currentSymbol.textContent.toUpperCase()) {
         thisClass.success();
+      } else {
+        thisClass.fail();
       }
-      //return;
-    }
+    };
 
     const page = document;
-    console.log('page ', page);
     const thisClass = this;
-    
-    //const fnOnKey = onKey(this);
     page.addEventListener('keydown', onKey);
   }
 
