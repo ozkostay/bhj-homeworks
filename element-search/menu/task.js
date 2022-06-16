@@ -8,9 +8,12 @@ arrElements.forEach( (item) => {
         let subMenu = false;
 
         arrAllMenu.forEach ( (itm) => {
-            itm.className = 'menu menu_sub';
             if ( itm.parentElement === item.parentElement ) {
-                itm.className = 'menu menu_sub menu_active';
+                if (itm.classList.contains('menu_active')) {
+                    itm.classList.remove('menu_active')
+                } else {
+                    itm.classList.add('menu_active');
+                }
                 subMenu = true;
             }
         });
