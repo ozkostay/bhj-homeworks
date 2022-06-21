@@ -1,34 +1,51 @@
+function changeSpans (items) {
+    let currentIndex, nextIndex ;
+    const itemsLength = items.length;
 
-const parents = Array.from(document.querySelectorAll('div.card'));
-
-function aaa(parent) {
-    //console.log('333 ', parent);
-    const rotators = Array.from(document.querySelectorAll('span.rotator__case'));
-    const rotatorsLength = rotators.length;
-    let nextIndex ;
-    
-    rotators.forEach( (span, index) => {
-        console.log('ps2 ', span);
+    items.forEach( (span, index) => {
         if ( span.classList.contains('rotator__case_active') ) {
-
-            if (index === rotatorsLength - 1) {
+            currentIndex = index;
+            if (index === itemsLength - 1) {
                 nextIndex = 0;    
             } else {
                 nextIndex = index + 1;
             }
-            
-            rotators[index].classList.remove('rotator__case_active');
-            rotators[nextIndex].classList.add('rotator__case_active');
-            console.log('ps2 ', span);
         }
-        
     });
     
+    items[currentIndex].classList.remove('rotator__case_active');
+    items[nextIndex].classList.add('rotator__case_active');
+}
 
-    //console.log('555 ', arrSpan);
+
+function makeRotation() {
+    const parents = Array.from(document.querySelectorAll('div.card'));
+    const rotators = Array.from(document.querySelectorAll('span.rotator__case'));
+    let arrFilterSpan;
+    
+    parents.forEach( (elementParent, index) => {
+        arrFilterSpan = rotators.filter( (item) => {
+            if ( item.closest('div.card') === elementParent ) {
+                return item;
+            }
+        });
+          
+        changeSpans (arrFilterSpan);
+
+    });
 };
 
-parents.forEach( (elementParent) => {
-        setInterval( aaa, 10000, elementParent );
-    });
+setInterval( makeRotation, 1000 );    
+
+
+
+
+
+
+
+
+
+
+
+
 
