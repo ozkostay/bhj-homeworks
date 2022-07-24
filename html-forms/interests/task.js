@@ -1,33 +1,50 @@
-const checkInputs = Array.from(document.querySelectorAll('input.interest__check'));
-console.log(checkInputs);
+// let aaa = [
+//     {parentUl: '1', child: '11'},
+//     {parentUl: '1', child: '12'},
+//     {parentUl: '2', child: '21'},
+//     {parentUl: '3', child: '22'},
+//     {parentUl: '11', child: '111'},
+//     {parentUl: '11', child: '112'},
+//     {parentUl: '11', child: '113'}
+// ];
 
-checkInputs.forEach( (element) => {
-    element.checked = false;
-    element.addEventListener('click', clickInput);
-});
+// console.log(aaa);
+//let checkBoxTree = [];
 
-function clickInput () {
-    
-    //this.checked = true;
-    
-    // if (this.checked) {
-    //     this.checked = false;
-    //     console.log('t');
+const checkUls = Array.from( document.querySelectorAll('input') );
+console.log(checkUls);
+
+checkUls.forEach( (item) => {
+    item.checked = false;
+    item.addEventListener('click', clickInput);
+    //console.log('Parent_Ul ', item.closest('li'));
+    //console.log('item ', item);
+    // if (item.closest('ul') === item) {
+    //     checkBoxTree.push({parentUl: null, child: item});    
     // } else {
-    //     this.checked = true;
-    //     console.log('f');
+    //     checkBoxTree.push({parentUl: item.closest('ul'), child: item});
     // }
     
-    checkInputs.forEach( (item) => {
-        //console.log(item);
-        console.log('ccc ', item.closest('input.interest__check'));
-        if (item.closest('li.interest') === this.closest('li.interest')) {
-            item.cheched = this.checked;
-            console.log('bbb ',item.cheched, ' fff ',this.checked  );
-        }
+    //console.log('================ ');
+    //checkBoxTree.push({parentUl: item.closest('ul'), child: item});
+});
 
+//console.log(checkBoxTree);
+
+function clickInput (item) {
+//     checkInputs.forEach( (item) => {
+
+//     });
+    //console.log('555    ', item.target.checked);
+    //console.log( item.target.closest('li').childNodes );
+    let checkNow = item.target.checked;
+    let parentLi = item.target.closest('li');
+    let inputsOfparentLi = Array.from( parentLi.querySelectorAll('input') );
+    
+    inputsOfparentLi.forEach( (input) => {
+        //console.log('inputs ', input);
+        input.checked = checkNow;
     });
-
     //event.preventDefault();
     //console.log('ddd ', this.checked + ' ddd');
 }
