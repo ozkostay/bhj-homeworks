@@ -33,6 +33,7 @@ function buttonClick () {
         
         // Вот здесь &times; вставляю, в HTML вижу все верно, на странице вместо крестика текст
         // не понятно как???
+        taskRemove.href = "#";
         taskRemove.textContent = '&times;';
         
         taskRemove.addEventListener('click', removeClick);
