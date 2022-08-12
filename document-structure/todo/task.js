@@ -29,11 +29,11 @@ function buttonClick () {
         taskTitle.textContent = newTaskInput.value;
 
         let taskRemove = document.createElement('a');
+        taskRemove.href = "#";
         taskRemove.classList.add('task__remove');
         
         // Вот здесь &times; вставляю, в HTML вижу все верно, на странице вместо крестика текст
         // не понятно как???
-        taskRemove.href = "#";
         taskRemove.textContent = '&times;';
         
         taskRemove.addEventListener('click', removeClick);
