@@ -1,21 +1,9 @@
 
-// навесить КЛИК на кнопку
-// по Клику:
-
-// 1 Проверить на пустое поле
-// 2 Нет -> 
-//     3 Создать ДИВ класс task
-//     4 Внетри создать ДИВ класс task__title
-//     5 Внутрь textContent из поля
-//     6 После него А ремув на него событи по удалению
-//     10 Расположить ДИВ класс task после последнего задания
 
 const taskList = document.getElementById('tasks__list');
 const button = document.getElementById('tasks__add');
 const newTaskInput = document.getElementById('task__input');
 newTaskInput.value = '';
-//let lastTaskInList = 'rrr';
-//console.log('222 ', newTask);
 
 button.addEventListener('click', buttonClick);
 
