@@ -30,14 +30,13 @@ function addToCart ( id, image ,quantity) {
     let count = 0;
     let productsInCart = Array.from(cartProducts.querySelectorAll('.cart__product'));
 
-    productsInCart.forEach ( (item) => {
-        if ( item.dataset.id === id ) {
-            divCount = item.querySelector('.cart__product-count');
-            count = Number(divCount.textContent);
-        }
+    let isProductsInCart = productsInCart.find( (item) => {
+        return item.dataset.id === id;
     });
 
-    if ( count != 0 ) {
+    if ( isProductsInCart ) {
+        divCount = isProductsInCart.querySelector('.cart__product-count');
+        count = Number(divCount.textContent);
         divCount.textContent = count + quantity;
     } else {
         let cartProduct = document.createElement('div');

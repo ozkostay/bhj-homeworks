@@ -8,6 +8,7 @@ newTaskInput.value = '';
 button.addEventListener('click', buttonClick);
 
 function buttonClick () {
+    event.preventDefault();
     if (newTaskInput.value) {
         let newTask = document.createElement('div');
         newTask.classList.add('task');
@@ -19,11 +20,7 @@ function buttonClick () {
         let taskRemove = document.createElement('a');
         taskRemove.href = "#";
         taskRemove.classList.add('task__remove');
-        
-        // Вот здесь &times; вставляю, в HTML вижу все верно, на странице вместо крестика текст
-        // не понятно как???
-        taskRemove.textContent = '&times;';
-        
+        taskRemove.innerHTML += '&times;';
         taskRemove.addEventListener('click', removeClick);
 
         newTask.insertAdjacentElement('afterbegin', taskTitle);
@@ -34,7 +31,6 @@ function buttonClick () {
     } else {
         console.log('Текст пустой');
     };
-
 };
 
 function removeClick () {
