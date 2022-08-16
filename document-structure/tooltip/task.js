@@ -9,7 +9,8 @@ function  clickInput (item) {
     event.preventDefault();
     const activeTooltip = Array.from(document.querySelectorAll('.tooltip_active'));
     activeTooltip.forEach( (item) => {
-        item.classList.remove('tooltip_active');
+        //item.classList.remove('tooltip_active');
+        item.remove('tooltip_active');
     });
 
     let {top, left}  = item.target.getBoundingClientRect();
