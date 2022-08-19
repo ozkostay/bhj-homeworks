@@ -25,7 +25,7 @@ products.forEach ((product) => {
 
 function addToCart ( id, image ,quantity) {
             
-    // Поиск товара в корзине
+    //  Поиск товара в корзине
     let divCount;
     let count = 0;
     let productsInCart = Array.from(cartProducts.querySelectorAll('.cart__product'));
