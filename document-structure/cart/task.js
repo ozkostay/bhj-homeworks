@@ -30,9 +30,7 @@ function addToCart ( id, image ,quantity) {
     let count = 0;
     let productsInCart = Array.from(cartProducts.querySelectorAll('.cart__product'));
 
-    let isProductsInCart = productsInCart.find( (item) => {
-        return item.dataset.id === id;
-    });
+    let isProductsInCart = productsInCart.find( (item) => item.dataset.id === id );
 
     if ( isProductsInCart ) {
         divCount = isProductsInCart.querySelector('.cart__product-count');
