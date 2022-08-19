@@ -1,0 +1,842 @@
+[33mcommit 70cf46a6a247a4f1031ab79e4067bf4d1b953062[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ozkostay <ozkostay@mail.ru>
+Date:   Tue Aug 16 16:41:42 2022 +0500
+
+    JSBrowser 16-08-22 asinc
+
+[33mcommit 256d0a6d1a155d73f407741335a0f5fa9da854d9[m
+Author: ozkostay <ozkostay@mail.ru>
+Date:   Tue Aug 16 11:56:16 2022 +0500
+
+    JSBrowser 16-08-22 2
+
+[33mcommit 53048afbf1c1dd0b3dd73f7025b7f1e535fe19e0[m
+Author: ozkostay <ozkostay@mail.ru>
+Date:   Tue Aug 16 11:50:45 2022 +0500
+
+    JSBrowser 16-08-22 1
+
+[33mcommit 9efb9a59cc4c6f775a161a9f9be2e7714888ce7e[m
+Author: ozkostay <ozkostay@mail.ru>
+Date:   Mon Aug 15 14:35:15 2022 +0500
+
+    JSBrowser 15-08-22 2
+
+[33mcommit a5f72da228544b5ae9b602496dc665a87cf8b86c[m
+Author: ozkostay <ozkostay@mail.ru>
+Date:   Mon Aug 15 14:31:56 2022 +0500
+
+    JSBrowser 15-08-22 1
+
+[33mcommit 1cfffb5a096eb6f8819ea8dd55103a61320b683a[m
+Author: ozkostay <ozkostay@mail.ru>
+Date:   Fri Aug 12 14:51:41 2022 +0500
+
+    JSBrowser 12-08-22 2
+
+[33mcommit aacc3a483d8872fad4d079c1323574876dd57ae5[m
+Author: ozkostay <ozkostay@mail.ru>
+Date:   Fri Aug 12 14:50:52 2022 +0500
+
+    JSBrowser 12-08-22 2
+
+[33mcommit b5f8878f4f7b8b8a84e3cf86ed8de988f06c1f89[m
+Author: ozkostay <ozkostay@mail.ru>
+Date:   Fri Aug 12 14:29:36 2022 +0500
+
+    JSBrowser 12-08-22 1
+
+[33mcommit e619b2243bbdba78cb767f2430aa6b4a167774a6[m
+Author: Konstantin Ozhug <ozkostay@mail.ru>
+Date:   Sun Jul 24 11:24:28 2022 +0500
+
+    JSforms 22-07-22 2
+
+[33mcommit 1e81b213b7d09bdceef4285783db7668cc97b6df[m
+Author: ozkostay <ozkostay@mail.ru>
+Date:   Sun Jul 24 09:38:03 2022 +0500
+
+    JSforms 24-07-22 1
+
+[33mcommit fbff9c9f2237e90dd6f5b6d8f603b747dfa0c5c3[m
+Author: Konstantin Ozhug <ozkostay@mail.ru>
+Date:   Tue Jul 19 21:32:40 2022 +0500
+
+    forms 19-07-22  2
+
+[33mcommit 815a1cb20bd606aad050cc0f9eb065e392b16bd9[m
+Author: Konstantin Ozhug <ozkostay@mail.ru>
+Date:   Tue Jul 19 20:21:27 2022 +0500
+
+    forms 19-07-22  1
+
+[33mcommit e2829fdf8fa44368ee914c4890306186d30375c2[m
+Author: Konstantin Ozhug <ozkostay@mail.ru>
+Date:   Mon Jul 4 20:35:11 2022 +0500
+
+    foms 04-07-22 1
+
+[33mcommit 092bcc9197845b748940022f900d07af875aa0b6[m
+Author: ozkostay <ozkostay@mail.ru>
+Date:   Tue Jun 21 16:38:53 2022 +0500
+
+    JSBrowser 21-06-22 1
+
+[33mcommit c1a450bb2a0e811c4f8635966ee877d53f2849ac[m
+Author: Konstantin Ozhug <ozkostay@mail.ru>
+Date:   Mon Jun 20 22:54:18 2022 +0500
+
+    JSBrowser 20-06-1
+
+[33mcommit c2b56dca6462bd86e9449945292d0ca5b9879306[m
+Author: Konstantin Ozhug <ozkostay@mail.ru>
+Date:   Sun Jun 19 21:15:37 2022 +0500
+
+    JSBrouser 19-06-22 2
+
+[33mcommit 4cc1cfe5aa4fb3e6a2c8a823f103c34c529ef9db[m
+Author: Konstantin Ozhug <ozkostay@mail.ru>
+Date:   Sun Jun 19 18:24:39 2022 +0500
+
+    JSBrowser 19-06-22 1
+
+[33mcommit 33c5bcc124cc17759004b48a18e5d5b123a25e87[m
+Author: ozkostay <ozkostay@mail.ru>
+Date:   Thu Jun 16 11:25:04 2022 +0500
+
+    JSBrowser 16-06-22 1
+
+[33mcommit 6a7b5dec1067e7f0e26534909d2c1789dbe6ae2e[m
+Author: ozkostay <ozkostay@mail.ru>
+Date:   Tue Jun 14 16:10:40 2022 +0500
+
+    JSBrowser 14-06-22 1
+
+[33mcommit 305b174d3335d9c00eb315f2dde55ca5a0a1f11c[m
+Author: Konstantin Ozhug <ozkostay@mail.ru>
+Date:   Mon Jun 13 21:55:43 2022 +0500
+
+    JSBrowser 13-06-22 -1
+
+[33mcommit d3811fee6c2692980c90d53eb97027ba0604adac[m
+Author: ozkostay <ozkostay@mail.ru>
+Date:   Thu Jun 9 16:57:23 2022 +0500
+
+    JSBrowser 09-06-22 1
+
+[33mcommit 401d4285a83582785db131daee750d9c91d55268[m
+Author: Konstantin Ozhug <ozkostay@mail.ru>
+Date:   Wed Jun 8 00:17:27 2022 +0500
+
+    findHTML 07-06-22 1
+
+[33mcommit 5798720fe37bc93d364de46a387dcb807f787f37[m
+Author: ozkostay <ozkostay@mail.ru>
+Date:   Fri Jun 3 15:06:21 2022 +0500
+
+    JSBrowser 03-06-22 1
+
+[33mcommit 0a67f75f656ee7bff582d722eb9f46690ac7bd58[m
+Author: ozkostay <ozkostay@mail.ru>
+Date:   Thu Jun 2 10:44:45 2022 +0500
+
+    JSBrowser 02-05-22 1
+
+[33mcommit 36d7e7be4ef1f974771ee03a0974d781b69ec5d4[m
+Author: Konstantin Ozhug <ozkostay@mail.ru>
+Date:   Wed Jun 1 07:32:42 2022 +0500
+
+    js 01-06-2022-1
+
+[33mcommit 2c30b87a7753abce0059a0af4d2a1399da676e1b[m
+Author: Konstantin Ozhug <ozkostay@mail.ru>
+Date:   Mon May 30 21:28:51 2022 +0500
+
+    JS-Browser -1 300522
+
+[33mcommit 88c95ed906a9e1bff1ccc8dcdd5596f05774bff6[m
+Author: aoovcharenko <61197587+aoovcharenko@users.noreply.github.com>
+Date:   Tue Apr 26 16:46:01 2022 +0300
+
+    Update README.md
+
+[33mcommit 25d4213200e2f2e177529f65beefb90c91fdba29[m
+Author: aoovcharenko <61197587+aoovcharenko@users.noreply.github.com>
+Date:   Tue Apr 26 16:40:17 2022 +0300
+
+    Update README.md
+
+[33mcommit a0e7571a0a1aa1bcab36b6f4ac133405a02fef35[m
+Author: SvetlanaStepanova <71134567+SvetlanaStepanova@users.noreply.github.com>
+Date:   Mon Mar 21 12:22:52 2022 +0300
+
+    Update README.md
+
+[33mcommit 37319246792c96d55ab3c54fbad4de16c9782b9d[m
+Author: SvetlanaStepanova <71134567+SvetlanaStepanova@users.noreply.github.com>
+Date:   Thu Mar 17 09:45:02 2022 +0300
+
+    Update README.md
+
+[33mcommit c1d559ec46737088d9ff88b50b1269657eb4a279[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:40:05 2021 +0300
+
+    Update README.md
+
+[33mcommit babce377e8ebfb8fa3dcfef6a00fbdac3bb47722[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:39:49 2021 +0300
+
+    Update README.md
+
+[33mcommit 8f5c662182bdbb8a3b49940f7b1c03d807d2f220[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:39:31 2021 +0300
+
+    Update README.md
+
+[33mcommit 80f9719d9f911e7dc3a96e8f47869d4ac2932aba[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:39:10 2021 +0300
+
+    Update README.md
+
+[33mcommit a5375b7b9eb73c81f2b13af420b571bc72799664[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:36:25 2021 +0300
+
+    Update README.md
+
+[33mcommit 11d7961ddb484d91f027994205fdb830fa7f902e[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:36:08 2021 +0300
+
+    Update README.md
+
+[33mcommit d1c4fdbadb53586066cdf0937343c1e224c8aaec[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:34:58 2021 +0300
+
+    Update README.md
+
+[33mcommit ce32fd66beca6354ae783f5fc1993baba86951cb[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:34:17 2021 +0300
+
+    Update README.md
+
+[33mcommit 7a8929172d638af598696ef7d53fde633d70cb56[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:33:41 2021 +0300
+
+    Update README.md
+
+[33mcommit 0b535d24a63b466da0db39c6d1ec4b4fd3d478e3[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:33:28 2021 +0300
+
+    Update README.md
+
+[33mcommit 34858b3e1968b4bccb35664de417b0d6af5e1748[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:33:16 2021 +0300
+
+    Update README.md
+
+[33mcommit 5b507db2dbabc0694df0b78d8d4c6bbddecd673e[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:33:02 2021 +0300
+
+    Update README.md
+
+[33mcommit 4fba5a1ae8766287355a2593d5ca62a6c5a57307[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:32:30 2021 +0300
+
+    Update README.md
+
+[33mcommit 4c873481886f48333590dc494dc1c1448d0b3a9c[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:32:16 2021 +0300
+
+    Update README.md
+
+[33mcommit 659423f18487624d4b65a234a8949b85671268a7[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:32:02 2021 +0300
+
+    Update README.md
+
+[33mcommit 257ebad91349bc37e6398e8c35375ceac0d32e26[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:31:01 2021 +0300
+
+    Update README.md
+
+[33mcommit 7d5a141da6d4505ee5341b2b5da738430f413fc2[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:30:30 2021 +0300
+
+    Update README.md
+
+[33mcommit d185c506c318dd6e3882839a3c8ae54966463605[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:30:13 2021 +0300
+
+    Update README.md
+
+[33mcommit fe99841a655551f9520b05bb7af6798eca93868d[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:29:53 2021 +0300
+
+    Update README.md
+
+[33mcommit 98c223557387ba879b914fa7676e27f74321735a[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:29:38 2021 +0300
+
+    Update README.md
+
+[33mcommit 9f276b4d76f592847543b67f0d639c2d251342a9[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:29:18 2021 +0300
+
+    Update README.md
+
+[33mcommit 5c3421af984265f588be8270d4ba89b2a949e095[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:29:02 2021 +0300
+
+    Update README.md
+
+[33mcommit e2a186f14e7e8d58041138d445eb70523b7c6d58[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:28:37 2021 +0300
+
+    Update README.md
+
+[33mcommit c1857d5ae685e9ade2ee1572c237614a1ea4573a[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:28:21 2021 +0300
+
+    Update README.md
+
+[33mcommit 1d2635b5cc71972f641ced58e9e0bf2d4b45b734[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:28:01 2021 +0300
+
+    Update README.md
+
+[33mcommit dd7ffd12665ee219b6f0498fc7d89e601ea82f07[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:27:44 2021 +0300
+
+    Update README.md
+
+[33mcommit ae4ed4aa9f17218fd5baf0a7afe7695b5e77a449[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:27:27 2021 +0300
+
+    Update README.md
+
+[33mcommit 142ad17fc91f97d4f52a0335913de16642cf5348[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:26:49 2021 +0300
+
+    Update README.md
+
+[33mcommit 0f46de712b073f837bcc19b821c338c19b24d592[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:25:42 2021 +0300
+
+    Update README.md
+
+[33mcommit 71e6d15bfab5b5efab5a5ca5ab7ff7a9edc6af12[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:25:22 2021 +0300
+
+    Update README.md
+
+[33mcommit 00c2882f8b65f449151290c10a9ec1a6f0b4775e[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:25:08 2021 +0300
+
+    Update README.md
+
+[33mcommit 5ff12ec0d19e0d9cfcad66a6dc20b5a0d9459700[m
+Author: Alexeev Roman <39964331+Roman2517@users.noreply.github.com>
+Date:   Tue Dec 7 10:23:23 2021 +0300
+
+    Update README.md
+
+[33mcommit 03402de21526ed825ef74e2d53f4912bca47919f[m
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Thu Jul 29 12:09:35 2021 +0300
+
+    Update task.css
+
+[33mcommit b3c94a4e0fd4d761c5626db0d5202490411df0a3[m
+Merge: ba7f674 33b41a0
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Mon Jun 21 14:13:01 2021 +0300
+
+    Merge pull request #12 from theart84/update-html
+    
+    update html and css
+
+[33mcommit 33b41a038a9d6d252af56e65c543893c16a592f8[m
+Author: theart84 <artshadow74@gmail.com>
+Date:   Tue Jun 15 18:45:27 2021 +0500
+
+    update html and css
+
+[33mcommit ba7f6748dabef5687dfe835e3121e9d6fb8f3365[m
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Sun Jan 31 20:08:25 2021 +0300
+
+    Update README.md
+
+[33mcommit ef9775904586a752b7f2de57e334c59692116cb9[m
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Tue Jan 5 12:04:59 2021 +0300
+
+    Update README.md
+
+[33mcommit 5cfc9692051f5a0ae2c4163768a9a645cf2a97dd[m
+Merge: 7813bea 2b25646
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Sun Aug 16 22:11:43 2020 +0300
+
+    fixed css
+    
+    fixed css
+
+[33mcommit 2b256467cbc7521c325e7cf6af0e1c0a5a771859[m
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Sun Aug 16 22:10:34 2020 +0300
+
+    fixed css
+
+[33mcommit 7813bea01435c9d0d0a2d3b9cdf5a2e1be2dba77[m
+Merge: 45be254 04a5e43
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Thu Aug 13 10:49:07 2020 +0300
+
+    Merge pull request #10 from NKhashchanov/master
+    
+    reworked book-reader
+
+[33mcommit 04a5e433c1fc5b3b7d045b4bd0b1eda9a3c6a03b[m
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Thu Aug 13 10:46:03 2020 +0300
+
+    reworked classes and datas
+
+[33mcommit c74098c74475561032ff6af5b6d85533d6d57a31[m
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Thu Aug 13 10:41:52 2020 +0300
+
+    reworked classes and datas
+
+[33mcommit aead09dbc5678aad356de5a78cb891e67708756d[m
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Thu Aug 6 21:07:08 2020 +0300
+
+    task.css
+
+[33mcommit 45be2548e42deec43d2fbd1a2e66912b92437920[m
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Thu Aug 6 21:06:23 2020 +0300
+
+    Update task.css
+
+[33mcommit 6345d3029720b8cd8cb366f56d15ece1c9c3d557[m
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Thu Jul 23 11:08:48 2020 +0300
+
+    Update README.md
+
+[33mcommit e5961648d2ca582364d134f2e09a9a087d2aa937[m
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Thu Jul 23 10:53:09 2020 +0300
+
+    небольшие правки описания
+
+[33mcommit cc96ce1ae5683e7ab06fe8f7be2c3c06f7a66402[m
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Thu Jul 23 10:50:02 2020 +0300
+
+    небольшие правки описания
+
+[33mcommit 34f80dff52d5f278c817fd464dd0d28103aeb0ba[m
+Merge: fd3de02 e524995
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Sat Jul 18 12:02:38 2020 +0300
+
+    Merge pull request #9 from NKhashchanov/master
+    
+    Небольшие правки описания
+
+[33mcommit e524995287f38fbec3fcde891a5d75962fbff96a[m
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Sat Jul 18 11:58:28 2020 +0300
+
+    небольшие правки описания
+
+[33mcommit 0f139c1b4d4bfc12fcfea1b49944d01df90b2cb3[m
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Sun Jul 12 14:47:31 2020 +0300
+
+    небольшие правки описания
+
+[33mcommit 87c72d630a339e9b4246c4469670ad79d720fe4e[m
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Sat Jul 11 12:25:01 2020 +0300
+
+    небольшие правки описания
+
+[33mcommit fd3de0236e89214f4eb4bb3a0a351209a404e281[m
+Merge: 0f647e6 9c0036f
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Mon Jun 29 15:17:49 2020 +0300
+
+    Merge pull request #8 from NKhashchanov/master
+    
+    changed path
+
+[33mcommit 9c0036f6514643679aa53beceb028cef8a0555f4[m
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Mon Jun 29 15:16:41 2020 +0300
+
+    changed path
+
+[33mcommit 0f647e69a714b2588a7ab70db73d8f64214a2e61[m
+Merge: 532a380 94bd17d
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Sat Jun 27 17:03:23 2020 +0300
+
+    Merge pull request #7 from NKhashchanov/master
+    
+    changed click on keyup
+
+[33mcommit 94bd17d2853a9ffc949b3a4b65b27ca3421cfe08[m
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Sat Jun 27 17:02:26 2020 +0300
+
+    changed click on keyup
+
+[33mcommit 532a380227dea3fbf4bcb3751acdc8dfe613b013[m
+Author: Igor Sklyarov <i.sklyarov90@gmail.com>
+Date:   Fri May 8 23:06:09 2020 +0300
+
+    Update README
+
+[33mcommit 869afb6643d5d605ccc0fc93acf4c36e80ba4303[m
+Merge: d9e8117 2631526
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Tue Apr 21 01:46:22 2020 +0300
+
+    Merge pull request #5 from NKhashchanov/master
+    
+    correct 2.1.3
+
+[33mcommit 2631526aeeab0795fc781b2ddb1f1aba25507546[m
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Tue Apr 21 01:45:27 2020 +0300
+
+    correct 2.1.3
+
+[33mcommit d9e8117e47da203cb1a31ad01da3f83537849286[m
+Merge: d7f1dc2 788b5bf
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Wed Apr 8 22:11:40 2020 +0300
+
+    Merge pull request #4 from NKhashchanov/master
+    
+    Update client-state\auth\readme.md
+
+[33mcommit 788b5bfa99465d112df8104e6d40f85047d4d265[m
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Wed Apr 8 22:10:16 2020 +0300
+
+    Update client-state\auth\readme.md
+
+[33mcommit d7f1dc2a5e8e15dd38cec935c91c9bf349d4c96a[m
+Merge: 0d83b86 d6041cc
+Author: Николай <37711307+NKhashchanov@users.noreply.github.com>
+Date:   Sun Jan 12 12:35:08 2020 +0300
+
+    Merge pull request #3 from vovachebr/master
+    
+    Update styles for document-structure
+
+[33mcommit d6041ccda3762ee33b7c1fc109ddf51d97fac11c[m
+Author: vovachebr <vovachebr@mail.ru>
+Date:   Sun Jan 12 11:30:29 2020 +0300
+
+    Update styles for document-structure
+
+[33mcommit 0d83b86ba4e874607b12b8bffc72c2f036a1c8ee[m
+Merge: a81cf5e 55e87d1
+Author: DaryaUl <43571337+DaryaUl@users.noreply.github.com>
+Date:   Wed Nov 6 17:54:56 2019 +0300
+
+    Merge pull request #2 from vovachebr/master
+    
+    Change image source
+
+[33mcommit 55e87d17ccd5f6645289ffe4ee0534c579719553[m
+Author: Vladimir Chebukin <vovachebr@mail.ru>
+Date:   Sun Nov 3 19:43:55 2019 +0300
+
+    Change image source
+
+[33mcommit a81cf5ebb8f4e16c22f4d57bd3fc2bdfb38e4e8d[m
+Merge: 4d1c124 a68dcb5
+Author: DaryaUl <43571337+DaryaUl@users.noreply.github.com>
+Date:   Mon Sep 23 16:54:42 2019 +0300
+
+    Merge pull request #1 from vovachebr/master
+    
+    add description to error eventListeners
+
+[33mcommit a68dcb56dc0c99cec8a252bf685bf83e150f8ccc[m
+Author: Vladimir Chebukin <vovachebr@mail.ru>
+Date:   Mon Sep 2 19:39:57 2019 +0300
+
+    Fixed mistakes. Add some datas to tasks
+
+[33mcommit 4d1c12463f8263e48ce69be659786929a30391ba[m
+Author: constanna <32778853+constanna@users.noreply.github.com>
+Date:   Mon Aug 19 19:20:43 2019 +0300
+
+    Update README.md
+
+[33mcommit 9023781cb22450668765eaefa7ce1fd512fb5992[m
+Author: Vladimir Chebukin <vovachebr@mail.ru>
+Date:   Sun Jul 28 22:34:07 2019 +0300
+
+    add description to error eventListeners
+
+[33mcommit 8312d0118f6c5281ff86e99ca513eae4ff49e024[m
+Author: Natalia Ryzhova <natashta@gmail.com>
+Date:   Thu Mar 14 18:58:28 2019 +0300
+
+    исправлены опечатки
+
+[33mcommit 2607b4120fb903b48d68b2875ee2b567b7420189[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Wed Feb 27 22:12:53 2019 +0300
+
+    3.2 bonus
+
+[33mcommit 75c5e57f63815c20396861873b18437c12314b0a[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Wed Feb 27 21:45:43 2019 +0300
+
+    improved 3.2 homeworks
+
+[33mcommit 51105a3ccfbc81ea72ea1d2613b3344ede284b77[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Wed Feb 27 21:37:19 2019 +0300
+
+    fixed bug
+
+[33mcommit e6c57515a4b5de0ec964a8a37cae2d24c1817f65[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Wed Feb 27 21:36:41 2019 +0300
+
+    3.1. bonus
+
+[33mcommit ecd06344a8df4753862471ca8d36276eacf29d89[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Wed Feb 27 11:39:54 2019 +0300
+
+    bonuses
+
+[33mcommit dca6a454cfa157053e06d1c1f91b868cc017c26b[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Wed Feb 27 10:56:38 2019 +0300
+
+    bonuses 1.1
+
+[33mcommit 21a77dafabefac0848c9cafd27f5f75369b2418d[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Wed Feb 27 02:08:40 2019 +0300
+
+    bonuses
+
+[33mcommit 24cfb27a16e0e4ad54ca9b60aa5a99460fdc382b[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Fri Feb 22 13:30:30 2019 +0300
+
+    fixed course name
+
+[33mcommit f991dc45daf33e72549091615c33f95ac5d8194e[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Fri Feb 22 12:27:31 2019 +0300
+
+    changed order
+
+[33mcommit eacb5ae8ae948435729cf6bc891fbf1e3971985a[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Fri Feb 22 12:24:42 2019 +0300
+
+    fix
+
+[33mcommit d39888e4133c8b00f62e3aee9cf065e9ddf637d1[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Fri Feb 22 12:05:41 2019 +0300
+
+    fix
+
+[33mcommit a88aec68d6427f9cd0ffdd2697c0eb2f46c22aed[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Wed Feb 20 14:20:04 2019 +0300
+
+    fix
+
+[33mcommit 84e1e1bd6a473ab9f98ec30962868e0777d399c5[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Tue Feb 19 15:14:40 2019 +0300
+
+    fix
+
+[33mcommit 7a5900cc2badd8d3ee5e45db254757393574ae9a[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Tue Feb 19 13:08:47 2019 +0300
+
+    fixed styles
+
+[33mcommit 8fc13ce17cfb3780c4b57486c572af7382ca1171[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Tue Feb 19 10:44:39 2019 +0300
+
+    changed order
+
+[33mcommit 62df6ee45376ba8d7d9d33792a60c90944d970b4[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Tue Feb 19 08:51:02 2019 +0300
+
+    update materials
+
+[33mcommit d8e2a3e77e1c4f746267c3c629e0189cef89aa68[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Tue Feb 19 08:26:14 2019 +0300
+
+    fix
+
+[33mcommit 503d7760602c37aa7c9fd5e0c4043e0db90ca5bf[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Tue Feb 19 03:56:26 2019 +0300
+
+    fix
+
+[33mcommit 2114b33a20d9d20b47bbfc05510009fc303085b5[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Tue Feb 19 03:48:17 2019 +0300
+
+    spoilers and fixes
+
+[33mcommit 25b3470cccedf805d5bb187d679cb4a8392848ae[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Tue Feb 19 03:21:53 2019 +0300
+
+    1.2 - 1.3 spoilers
+
+[33mcommit 1c78f3a972361116f11f1eadccc50e1d2ec7bbff[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Tue Feb 19 02:13:03 2019 +0300
+
+    1.1 spoilers
+
+[33mcommit 4d6eb7a05df140e3a905618f82ffdbb4215a10bd[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Tue Feb 19 02:09:50 2019 +0300
+
+    1.1 spoilers
+
+[33mcommit 43d8b45224c3cd5474c0357efb79e4e0fd5b6019[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Tue Feb 19 02:03:15 2019 +0300
+
+    spoilers test
+
+[33mcommit 1e8021f461a1435987c2d217d6463df128c22852[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Tue Feb 19 01:52:42 2019 +0300
+
+    3.2 fix
+
+[33mcommit 852ba47d02ed91a75211b9b7f49787e177914147[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Tue Feb 19 01:47:27 2019 +0300
+
+    3.2 fix
+
+[33mcommit 093ae47056904f96b8882bed88690ca374eba29a[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Tue Feb 19 01:42:20 2019 +0300
+
+    3.2
+
+[33mcommit 815436efed6c1b9f678c0abdde809f7aa790fd29[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Mon Feb 18 23:40:57 2019 +0300
+
+    3.1
+
+[33mcommit 8c65a989dba8ba6d1a3a4f050f57b5d5668b3eb6[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Mon Feb 18 17:14:19 2019 +0300
+
+    2.3 and fixes
+
+[33mcommit ef1d50486f5c0a0c8c4cc9d2f3c159b72cd3ffc3[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Mon Feb 18 13:21:30 2019 +0300
+
+    2.2
+
+[33mcommit c203b5e6e218cd958bd0a16d5301b1e9c2f41e08[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Mon Feb 18 13:21:07 2019 +0300
+
+    2.2
+
+[33mcommit aa63a882e9ce61154b7a82a3e69b3c7067f64044[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Mon Feb 18 11:25:51 2019 +0300
+
+    2.1
+
+[33mcommit 7c6ac4046ed5467821e447793e73c570c8dbbc48[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Mon Feb 18 09:49:22 2019 +0300
+
+    1.3 fixes
+
+[33mcommit ddf3769b24fa3c66bb9f8b0fcbfef29a875be99d[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Mon Feb 18 09:38:45 2019 +0300
+
+    1.3
+
+[33mcommit 5c08aa6eb33d058a0bc3c0660cb515712fc7055b[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Mon Feb 18 03:53:25 2019 +0300
+
+    1.2 fix
+
+[33mcommit 8b1f6efdcc1351522c0c3524686fc745a7855d12[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Mon Feb 18 03:51:36 2019 +0300
+
+    1.2
+
+[33mcommit 335b10871817b2dd409eb147ef196f261bfd6605[m
+Author: Vladimir Yazykov <neizerth@gmail.com>
+Date:   Mon Feb 18 02:33:41 2019 +0300
+
+    init & 1.1

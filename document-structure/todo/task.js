@@ -9,7 +9,8 @@ button.addEventListener('click', buttonClick);
 
 function buttonClick () {
     event.preventDefault();
-    if (newTaskInput.value) {
+    if ( newTaskInput.value.trim())  {
+
         let newTask = document.createElement('div');
         newTask.classList.add('task');
         
@@ -33,6 +34,6 @@ function buttonClick () {
     };
 };
 
-function removeClick () {
-    event.target.parentElement.remove();
+function removeClick (item) {
+    item.target.parentElement.remove();
 };
