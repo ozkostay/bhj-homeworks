@@ -23,3 +23,4 @@ xhr.addEventListener('readystatechange', () => {
 xhr.open('GET', 'https://netology-slow-rest.herokuapp.com/poll.php');
 xhr.responseType = 'json';
 xhr.send();
+
