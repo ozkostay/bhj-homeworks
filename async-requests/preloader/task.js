@@ -5,15 +5,10 @@ const loaderImg = document.getElementById('loader');
 
 xhr.addEventListener('readystatechange', () => {
     if ( xhr.readyState === xhr.DONE ) {
-        
         responseValute = xhr.response.response.Valute;
         loaderImg.classList.remove('loader_active');
 
         for (let num in responseValute) {
-            
-            // Вот ниже строка вроде правильно, а не работает :-(
-            //itemsTable.insertAdjacentElement('beforeend', '<div class="item"><div class="item__code">' + responseValute[num].CharCode + '</div><div class="item__value">' + responseValute[num].Value + '</div><div class="item__currency"> руб.</div></div>');
-            
             itemsTable.innerHTML += '<div class="item"><div class="item__code">' + responseValute[num].CharCode + '</div><div class="item__value">' + responseValute[num].Value + '</div><div class="item__currency"> руб.</div></div>';
         }
     }
