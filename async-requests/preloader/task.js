@@ -6,8 +6,7 @@ const loaderImg = document.getElementById('loader');
 xhr.addEventListener('readystatechange', () => {
     if ( xhr.readyState === xhr.DONE ) {
         
-        xhrResponse = xhr.response;
-        responseValute = xhrResponse.response.Valute;
+        responseValute = xhr.response.response.Valute;
         loaderImg.classList.remove('loader_active');
 
         for (let num in responseValute) {
