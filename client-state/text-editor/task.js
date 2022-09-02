@@ -6,8 +6,6 @@ button.addEventListener( 'click', () => {
     textArea.value = '';
 });
 
-function saveText() {
+textArea.addEventListener( 'input', () => {
     localStorage.setItem('text', textArea.value);
-}
-  
-setInterval(saveText, 1000);
+});
