@@ -4,7 +4,7 @@ const itemsTable = document.getElementById('items');
 const loaderImg = document.getElementById('loader');
 
 xhr.onload = function () {
-    console.log(xhr);
+    //console.log(xhr);
     if ( xhr.status === 200 ) {
         responseValute = xhr.response.response.Valute;
         loaderImg.classList.remove('loader_active');
